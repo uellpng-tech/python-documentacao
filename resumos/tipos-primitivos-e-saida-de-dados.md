@@ -37,22 +37,27 @@ Dentro do Python o print é um dos comandos mais utilizados, porém apesar de pa
 
 &ensp;&ensp;&ensp; `nome = pedrozo`<br>
 &ensp;&ensp;&ensp; `print(f"Olá {nome} tudo bem")`<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem:
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem
 
 `Modo simples`: O modo simples é o modo apresentado no resumo anterior a esse ([primeiros-passos.md](primeiros-passos.md)), ele utiliza a vírgula para separar a variável do texto.
 
 &ensp;&ensp;&ensp; `nome = pedrozo`<br>
 &ensp;&ensp;&ensp; `print(f"Olá", nome, "tudo bem")`<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem:
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem
 
 `Modo Antigo`: O modo antigo é um modo que usa o `.format` para sinalizar as variáveis e o `{}` para sinalizar a posição das vaiáveis.
 
 &ensp;&ensp;&ensp; `nome = pedrozo`<br>
 &ensp;&ensp;&ensp; `print(f"Olá {} tudo bem".format(nome))`<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem:
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem
 
 `Modo Legado`: O modo legado é um modo que não deve ser utilizado em projetos novos, pois é um modo obsoleto utilizado muito antigamente, apesar dele funcionar hoje, o motivo dele ainda estar em funcionamento é para não comprometer sistemas antigos que ainda utilizam esse formato. O modo que ele utiliza é marcando o local da variável com `%s` e sinalizando e separando a string e a variável com `%`.
 
 &ensp;&ensp;&ensp; `nome = pedrozo`<br>
 &ensp;&ensp;&ensp; `print(f"Olá %s tudo bem" % nome)`<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem:
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Retorno: Olá pedrozo tudo bem
+
+## Exercícios Relacionados 
+
+- [Exercício 003](../exercicios/aula%206%20exercicio%2003.py)
+- [Exercício 004](../exercicios/aula%206%20exercicio%2004.py)
