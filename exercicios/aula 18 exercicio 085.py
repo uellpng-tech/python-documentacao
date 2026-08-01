@@ -1,25 +1,13 @@
-pares = []
-impares = []
-números = []
+numeros = [[], []]
 
 for c in range(0, 7):
     n = int(input(f"Digite o {c+1}º número: "))
     if n % 2 == 0:
-        pares.append(n)
-        números.append(pares[:])
-        pares.clear()
+        numeros[0].append(n)
     else:
-        impares.append(n)
-        números.append(impares[:])
-        impares.clear()
+        numeros[1].append(n)
 
-números.append(pares[:])
-números.append(impares[:])
+numeros[0].sort()
+numeros[1].sort()
 
-pos = 1
-
-for n in números[0]:
-    if n > números[0][pos]:
-        insert.
-
-print(números)
+print(numeros)
