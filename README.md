@@ -6,3 +6,4 @@
 - [Projetos acâdemicos](projetos-academicos/README.md)
 ##
 - [Referências](referencias/README.md)
+- [Contextualização](contexto/README.md)
