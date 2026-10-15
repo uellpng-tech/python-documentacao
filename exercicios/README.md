@@ -129,3 +129,20 @@
 * [Exercício 087](./aula%2018%20exercicio%20087.py)
 * [Exercício 088](./aula%2018%20exercicio%20088.py)
 * [Exercício 089](./aula%2018%20exercicio%20089.py)
+
+### Aula 19
+
+* [Exercício 090](./aula%2019%20exercicio%20090.py)
+* [Exercício 091](./aula%2019%20exercicio%20091.py)
+* [Exercício 092](./aula%2019%20exercicio%20092.py)
+* [Exercício 093](./aula%2019%20exercicio%20093.py)
+* [Exercício 094](./aula%2019%20exercicio%20094.py)
+
+### Aula 20
+
+* [Exercício 095](./aula%2020%20exercicio%20095.py)
+* [Exercício 096](./aula%2020%20exercicio%20096.py)
+* [Exercício 097](./aula%2020%20exercicio%20097.py)
+* [Exercício 098](./aula%2020%20exercicio%20098.py)
+* [Exercício 099](./aula%2020%20exercicio%20099.py)
+* [Exercício 100](./aula%2020%20exercicio%20100.py)
